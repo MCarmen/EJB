@@ -1,3 +1,3 @@
-# EJB-19
+# EJB
 Enterprise Java Bean assignment
 
