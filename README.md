@@ -1,3 +1,3 @@
-# AdvancedJava-2017-18
-Enterprice Java Bean assignment
+# EJB-19
+Enterprise Java Bean assignment
 
